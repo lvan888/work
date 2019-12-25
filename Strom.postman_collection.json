@@ -1,4 +1,4 @@
-{
+﻿{
 	"info": {
 		"_postman_id": "30601126-6864-4c1f-b833-07bed0eff472",
 		"name": "Strom项目",
@@ -2150,7 +2150,7 @@
 						{
 							"key": "file",
 							"type": "file",
-							"src": "/D:/Documents/Gongming/第三周/第四天 数据库/1.txt"
+							"src": "/root/1.txt"
 						}
 					],
 					"options": {
@@ -2207,7 +2207,7 @@
 						{
 							"key": "file",
 							"type": "file",
-							"src": "/D:/Documents/Gongming/第三周/第四天 数据库/1.doc"
+							"src": "/root/1.doc"
 						}
 					],
 					"options": {
@@ -2255,7 +2255,7 @@
 						{
 							"key": "file",
 							"type": "file",
-							"src": "/D:/Documents/Gongming/第三周/第四天 数据库/1.jpg"
+							"src": "/root/1.jpg"
 						}
 					],
 					"options": {
@@ -2312,7 +2312,7 @@
 						{
 							"key": "file",
 							"type": "file",
-							"src": "/D:/Documents/Gongming/第三周/第四天 数据库/中文.txt"
+							"src": "/root/中文.txt"
 						}
 					],
 					"options": {
